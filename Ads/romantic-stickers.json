@@ -7,11 +7,11 @@
 			{
 				"MonetizationId": 1,
 				"MonetizerName": "Facebook Monetization",
-				"AdAppKey": "863094544868437",
-				"BannerAdKey": "863094544868437_863107351533823",
-				"InterstitialAdKey": "863094544868437_863107548200470",
-				"RewardedAdKey": "863094544868437_863107691533789",
-				"NativeAdKey": "863094544868437_863107608200464"
+				"AdAppKey": "386614346948378",
+				"BannerAdKey": "386614346948378_386614863614993",
+				"InterstitialAdKey": "386614346948378_386614956948317",
+				"RewardedAdKey": "386614346948378_386615110281635",
+				"NativeAdKey": "386614346948378_386615020281644"
 			},
             {
                 "MonetizationId": 6,
